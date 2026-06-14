@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/interstellar_wallpaper.png" alt="interstellar" style="width: 100%; max-height: 150px; object-fit: cover; object-position: center;" />
+</p>
+
 # Damar Djati Wahyu Kemala
 **Application Developer**  
 
