@@ -64,6 +64,11 @@ Melakukan olah data dan analisis terhadap data untuk memperoleh insight dan menc
 *   **Peran & Kontribusi:** Mendesain database dan schema, melakukan migrasi data dari open-dataset kedalam table SQL Server, olah dan analisis data, mengirim hasil analisis ke looker studio.
 *   **Teknologi:** SQL Server, Google Spreadsheet, Looker Studio.
 
+#### 3. Aplikasi Catatan Pengeluaran Harian
+Membuat aplikasi catatan pengeluaran sederhana berbasis python (framework django), dengan tujuan untuk menganalisis pengeluaran harian serta dapat men-set batasan pengeluaran harian.
+*   **Peran & Kontribusi:** Mendesain database dan schema, membuat app dari sisi back-end dan front-end.
+*   **Teknologi:** SQLlite, Python, Chart.Js, Bootstrap.
+
 ---
 
 ### Kontak & Tautan
