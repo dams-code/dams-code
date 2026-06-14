@@ -49,8 +49,6 @@ Saat ini aktif mengembangkan sistem internal dan terbuka untuk kolaborasi pada p
 
 ---
 
----
-
 ### Proyek Pilihan
 
 #### 1. Mini Project API
