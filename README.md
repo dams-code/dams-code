@@ -24,6 +24,7 @@ Saat ini aktif mengembangkan sistem internal dan terbuka untuk kolaborasi pada p
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=fastapi&logoColor=white" alt="Flask" />
 </p>
 
 **Library & Ekosistem Backend**
@@ -31,6 +32,8 @@ Saat ini aktif mengembangkan sistem internal dan terbuka untuk kolaborasi pada p
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Kendo_UI-54C5CF?style=flat&logo=kendo-ui&logoColor=white" alt="Kendo UI" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
 **Database & Penyimpanan**
