@@ -67,7 +67,7 @@ Membuat sebuah API yang dapat melakukan CRUD sederhana
 #### 2. Analisis Data
 Melakukan olah data dan analisis terhadap data untuk memperoleh insight dan mencoba untuk membuat rekomendasi sederhana berdasarkan hasil analisis yang sudah dibuat.
 *   **Peran & Kontribusi:** Mendesain database dan schema, melakukan migrasi data dari open-dataset kedalam table SQL Server, olah dan analisis data, mengirim hasil analisis ke looker studio.
-*   **Teknologi:** SQL Server, Google Spreadsheet, Looker Studio.
+*   **Teknologi:** SQL Server, Excel, Google Spreadsheet, Looker Studio, Power BI.
 
 #### 3. Aplikasi Catatan Pengeluaran Harian
 Membuat aplikasi catatan pengeluaran sederhana berbasis python (framework django), dengan tujuan untuk menganalisis pengeluaran harian serta dapat men-set batasan pengeluaran harian.
