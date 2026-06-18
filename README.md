@@ -33,7 +33,8 @@ Saat ini aktif mengembangkan sistem internal dan terbuka untuk kolaborasi pada p
   <img src="https://img.shields.io/badge/Kendo_UI-54C5CF?style=flat&logo=kendo-ui&logoColor=white" alt="Kendo UI" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white" alt="Chart.js" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white" alt="TensorFlow" />
+  
 </p>
 
 **Database & Penyimpanan**
@@ -48,6 +49,9 @@ Saat ini aktif mengembangkan sistem internal dan terbuka untuk kolaborasi pada p
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=Google%20Cloud&logoColor=white" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft%20Excel&logoColor=white" alt="Excel" />
 </p>
 
 ---
