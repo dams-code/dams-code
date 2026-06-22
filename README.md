@@ -58,21 +58,20 @@ Saat ini aktif mengembangkan sistem internal dan terbuka untuk kolaborasi pada p
 
 ### Proyek Pilihan
 
-#### 1. Mini Project API
-Membuat sebuah API yang dapat melakukan CRUD sederhana
-*   **Peran & Kontribusi:** Mengembangkan CRUD API, dan Uji melalui Postman.
-*   **Teknologi:** Go, Postman.
-*   **Dampak / Fitur Utama:** Berhasil mengimplementasikan CRUD API dengan Go dan hasil uji melalui Postman.
-
-#### 2. Analisis Data
+#### 1. Analisis Data
 Melakukan olah data dan analisis terhadap data untuk memperoleh insight dan mencoba untuk membuat rekomendasi sederhana berdasarkan hasil analisis yang sudah dibuat.
 *   **Peran & Kontribusi:** Mendesain database dan schema, melakukan migrasi data dari open-dataset kedalam table SQL Server, olah dan analisis data, mengirim hasil analisis ke looker studio.
-*   **Teknologi:** SQL Server, Excel, Google Spreadsheet, Looker Studio, Power BI.
+*   **Teknologi:** SQL Server, Excel, Google Spreadsheet, Power Query, Looker Studio, Power BI.
 
-#### 3. Aplikasi Catatan Pengeluaran Harian
+#### 2. Aplikasi Catatan Pengeluaran Harian
 Membuat aplikasi catatan pengeluaran sederhana berbasis python (framework django), dengan tujuan untuk menganalisis pengeluaran harian serta dapat men-set batasan pengeluaran harian.
 *   **Peran & Kontribusi:** Mendesain database dan schema, membuat app dari sisi back-end dan front-end.
 *   **Teknologi:** SQLlite, Python, Chart.Js, Bootstrap.
+*
+#### 3. Aplikasi Klasifikasi Motif Batik
+Membuat aplikasi klasifikasi motif batik, melanjutkan pengembangan hasil skripsi tahun 2021, dari model CNN yang sudah dibuat, kemudian di realisasikan kedalam sebuah sistem berbasis GUI di browser.
+*   **Peran & Kontribusi:** Mendesain backend, lalu service-model, dan interface / tampilan untuk user.
+*   **Teknologi:** Python (Flask), Keras, Tensorflow, Bootstrap, Go.
 
 ---
 
