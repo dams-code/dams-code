@@ -67,7 +67,7 @@ Melakukan olah data dan analisis terhadap data untuk memperoleh insight dan menc
 Membuat aplikasi catatan pengeluaran sederhana berbasis python (framework django), dengan tujuan untuk menganalisis pengeluaran harian serta dapat men-set batasan pengeluaran harian.
 *   **Peran & Kontribusi:** Mendesain database dan schema, membuat app dari sisi back-end dan front-end.
 *   **Teknologi:** SQLlite, Python, Chart.Js, Bootstrap.
-*
+
 #### 3. Aplikasi Klasifikasi Motif Batik
 Membuat aplikasi klasifikasi motif batik, melanjutkan pengembangan hasil skripsi tahun 2021, dari model CNN yang sudah dibuat, kemudian di realisasikan kedalam sebuah sistem berbasis GUI di browser.
 *   **Peran & Kontribusi:** Mendesain backend, lalu service-model, dan interface / tampilan untuk user.
