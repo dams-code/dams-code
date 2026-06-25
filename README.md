@@ -73,6 +73,12 @@ Membuat aplikasi klasifikasi motif batik, melanjutkan pengembangan hasil skripsi
 *   **Peran & Kontribusi:** Mendesain backend, lalu service-model, dan interface / tampilan untuk user.
 *   **Teknologi:** Python (Flask), Keras, Tensorflow, Bootstrap, Go.
 
+#### 4. Dashboard Analitik dan Prediksi Omset pada FMCG
+Membuat Aplikasi Web berbasis REST API dan inference python (permodelan Machine Learning) bertujuan untuk menganalisa penjualan sejumlah produk dari data di mini data warehouse SQL Server.
+Proses yang dimulai dari pengolahan data kotor di experimen melalui jupyter notebook, membuat model linear regression experimen, hingga deploy ke dalam inference model dan hasil predict dikirim ke REST API back-end Go untuk di tampilkan melalui Chart.Js di browser.
+*   **Peran & Kontribusi:** Mendesain backend, lalu service-model, dan interface / tampilan untuk user.
+*   **Teknologi:** Python (sklearn model), Tailwind Css, Go, SQL Server, Mini Data Warehouse (staging table dan clean table).
+
 ---
 
 ### Kontak & Tautan
